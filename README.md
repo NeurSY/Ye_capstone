@@ -1,10 +1,3 @@
----
-title: "538Capstone"
-author: "Sherry Ye"
-date: "4/26/2020"
-output: html_document
----
-
 ## Information concerning the experiment
 
 Hyperphosphorylation of tau, a microtubule-associated protein, is a hallmark of many neurodegenerative disorders such as Alzheimer’s disease. However, the mechanisms behind this tau-mediated degeneration remains unknown. Fruit flies are a useful model to study neurodegeneration, due to their naturally short lifespan, genetic tractability, and relatively simple brain. A genetic model of tauopathy has been created by pan-neuronally expressing human tau in fruit flies. Here, I am particularly interested in seeing whether tauopathy in these fruit flies mimics the progressive degeneration pattern seen in humans. 
